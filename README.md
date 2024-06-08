@@ -1,4 +1,4 @@
-### Here I store all the test tasks that I have completed
+### Здесь я храню все выполненные мной тестовые задания
 
 - [Avito-tech](https://github.com/ReYaNOW/avito-tech-test-task) — Микросервис для сбора статистики по откликам и просмотрам. Сервис взаимодействует с клиентом при помощи REST API.  
   Стек: Python3.11, FastApi, SqlAlchemy, Alembic, Asyncpg, Docker
