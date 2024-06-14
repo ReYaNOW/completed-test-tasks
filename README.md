@@ -6,5 +6,5 @@
 - [MediaSoft](https://github.com/ReYaNOW/mediasoft-test-task) — REST API, созданное при помощи DRF для работы с сущностями city, street, shop.  
   Стек: Python3.11, DRF, psycopg2, Docker
 
-- [Ivelum](https://github.com/ReYaNOW/ivelum-test-task) — http-прокси-сервер, запускаемый локально, который изменяет и отображает содержимое страниц Hacker News.
+- [Ivelum](https://github.com/ReYaNOW/ivelum-test-task) — http-прокси-сервер, запускаемый локально, который изменяет и отображает содержимое страниц Hacker News.  
   Стек: Python3.11, FastApi, aiohttp, beautifulsoup4
